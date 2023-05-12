@@ -1,0 +1,7 @@
+Enemigo 1: Miguel
+Enemigo 2: Juan
+Enemigo 3: Maximiliano
+Enemigo 4: Rodrigo
+Trampa 1: Jorge
+Jugador: Renato
+Nivel: Brayan
