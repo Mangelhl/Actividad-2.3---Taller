@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - bullet
+  - trampa
+  - circulopersonaje
   layers:
   - Default
   - TransparentFX
