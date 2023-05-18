@@ -5,7 +5,7 @@ using UnityEngine;
 public abstract class MoveEP : MonoBehaviour
 {
 
-    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] protected float moveSpeed = 5f;
     [SerializeField] private int health = 1;
 
     protected Rigidbody rb;
